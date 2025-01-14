@@ -28,7 +28,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Evan R. | -- | -- |
 | Saima S. | -- | -- |
 | Michael S. | -- | -- |
-| Brigette V. S. | [brigettesegovia] (https://github.com/brigettesegovia) | [git@github.com:brigettesegovia/W25-roll-call.git] (https://github.com/brigettesegovia/W25-roll-call) |
+| Brigette V. S. | [brigettesegovia] (https://github.com/brigettesegovia) | [github.com/brigettesegovia/W25-roll-call] (https://github.com/brigettesegovia/W25-roll-call) |
 | Qianran X. | -- | -- |
 
 ## Instructions

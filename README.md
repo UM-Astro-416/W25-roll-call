@@ -12,7 +12,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Kaj D. | -- | -- |
 | AJ deV. | -- | -- |
 | Jennifer D. | -- | -- |
-| Matthew F. | -- | -- |
+| Matthew F. | [matthewtfischer](https://github.com/matthewtfischer) | [github.com/matthewtfischer/W25-roll-call](https://github.com/matthewtfischer/W25-roll-call) |
 | Elizaveta G. | -- | -- |
 | Daniel H. | -- | -- |
 | Colin H. | -- | -- |

@@ -14,7 +14,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Jennifer D. | -- | -- |
 | Matthew F. | -- | -- |
 | Elizaveta G. | -- | -- |
-| Daniel H. | -- | -- |
+| Daniel H. | [heilmand](https://github.com/heilmand) | [github.com/heilmand/W25-roll-call](https://github.com/heilmand/W25-roll-call) |
 | Colin H. | -- | -- |
 | Samuel H. | -- | -- |
 | Andrew H. | -- | -- |

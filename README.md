@@ -11,7 +11,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Raven C. | -- | -- |
 | Kaj D. | -- | -- |
 | AJ deV. | -- | -- |
-| Jennifer D. | -- | -- |
+| Jennifer D. | [jadupuis](https://github.com/jadupuis) | [github.com/jadupuis/W25-roll-call](https://github.com/jadupuis/W25-roll-call) |
 | Matthew F. | -- | -- |
 | Elizaveta G. | -- | -- |
 | Daniel H. | -- | -- |

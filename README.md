@@ -17,7 +17,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Daniel H. | -- | -- |
 | Colin H. |[cholm-hansen](https://github.com/cholm-hansen) |[github.com/cholm-hansen/W25-roll-call-fork](https://github.com/cholm-hansen/W25-roll-call-fork) |
 | Samuel H. | -- | -- |
-| Andrew H. | -- | -- |
+| Andrew H. | [andbrickhouse](https://github.com/andbrickhouse) | [https://github.com/andbrickhouse/W25-roll-call] |
 | Saarthak J. | -- | -- |
 | Brooke K. | [bkotten](https://github.com/bkotten) | [https://github.com/bkotten/W25-roll-call](https://github.com/bkotten/W25-roll-call) |
 | August M. | [AuthmaStasley](https://github.com/AuthmaStasley) | [github.com/AuthmaStasley/W25-roll-call](https://github.com/AuthmaStasley/W25-roll-call) |

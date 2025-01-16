@@ -13,7 +13,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | AJ deV. | -- | -- |
 | Jennifer D. | [jadupuis](https://github.com/jadupuis) | [github.com/jadupuis/W25-roll-call](https://github.com/jadupuis/W25-roll-call) |
 | Matthew F. | [matthewtfischer](https://github.com/matthewtfischer) | [github.com/matthewtfischer/W25-roll-call](https://github.com/matthewtfischer/W25-roll-call) |
-| Elizaveta G. | -- | -- |
+| Elizaveta G. | [e-gavril](https://github.com/e-gavril)| [github.com/e-gavril/W25-roll-call](https://github.com/e-gavril/W25-roll-call) |
 | Daniel H. | [heilmand](https://github.com/heilmand) | [github.com/heilmand/W25-roll-call](https://github.com/heilmand/W25-roll-call) |
 | Colin H. |[cholm-hansen](https://github.com/cholm-hansen) |[github.com/cholm-hansen/W25-roll-call-fork](https://github.com/cholm-hansen/W25-roll-call-fork) |
 | Samuel H. | [hopper25](https://github.com/hopper25) | [github.com/hopper25/W25-roll-call](https://github.com/hopper25/W25-roll-call) |

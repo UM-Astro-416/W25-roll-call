@@ -26,7 +26,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Yanbo P. | -- | -- |
 | Benjamin R. | [bradmore](https://github.com/bradmore) | [github.com/bradmore/W25-roll-call](https://github.com/bradmore/W25-roll-call) |
 | Evan R. | [evanrootness](https://github.com/evanrootness) | [git@github.com:evanrootness/W25-roll-call.git](https://github.com/evanrootness) |
-| Saima S. | -- | -- |
+| Saima S. | [saimafsiddiqui](https://github.com/saimafsiddiqui) | [github.com/saimafsiddiqui/W25-roll-call](https://github.com/saimafsiddiqui/W25-roll-call) |
 | Michael S. | [mstruk12](https://github.com/mstruk) | [github.com/mstruk12/W25-roll-call](https://github.com/mstruk12/W25-roll-call) |
 | Brigette V. S. | [brigettesegovia](https://github.com/brigettesegovia) | [github.com/brigettesegovia/W25-roll-call](https://github.com/brigettesegovia/W25-roll-call) |
 | Qianran X. | -- | -- |

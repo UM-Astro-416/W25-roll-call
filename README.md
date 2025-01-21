@@ -23,7 +23,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | August M. | [AuthmaStasley](https://github.com/AuthmaStasley) | [github.com/AuthmaStasley/W25-roll-call](https://github.com/AuthmaStasley/W25-roll-call) |
 | Sanil M. | [sanilmittal](https://github.com/sanilmittal) | [https://github.com/sanilmittal/W25-roll-call](https://github.com/sanilmittal/W25-roll-call) |
 | Valentin O. | -- | -- |
-| Yanbo P. | -- | -- |
+| Yanbo P. | [yanbopanpi](https://github.com/yanbopanpi) | [github.com/yanbopanpi/W25-roll-call](https://github.com/yanbopanpi/W25-roll-call.git) |
 | Benjamin R. | [bradmore](https://github.com/bradmore) | [github.com/bradmore/W25-roll-call](https://github.com/bradmore/W25-roll-call) |
 | Evan R. | [evanrootness](https://github.com/evanrootness) | [git@github.com:evanrootness/W25-roll-call.git](https://github.com/evanrootness) |
 | Saima S. | [saimafsiddiqui](https://github.com/saimafsiddiqui) | [github.com/saimafsiddiqui/W25-roll-call](https://github.com/saimafsiddiqui/W25-roll-call) |
